@@ -1,4 +1,4 @@
 # 数据结构与算法
 ## 第一章:当我们在讨论算法的时候，我们在讨论什么
 - [为什么要学算法](content/chapter01/为什么要学算法.md)
-- [为什么要学算法](content/chapter01/课程简介.md)
+- [课程简介](content/chapter01/课程简介.md)
